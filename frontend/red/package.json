@@ -2,5 +2,8 @@
   "name": "@wst/red",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+      "react": "16.12.0"
+  }
 }
